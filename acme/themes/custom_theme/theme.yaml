@@ -1,0 +1,15 @@
+name: Custom_theme
+description: 'Simple bootswatch theme'
+author: 'Kate C.'
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: My Site
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: This site is to display a little bit about who I am and the work that I have accomplished
